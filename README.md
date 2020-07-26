@@ -119,7 +119,7 @@ I'm Alvaro Serrano!
 
 ![Alvaro Serrano Github Stats](https://github-readme-stats.vercel.app/api?username=alvaroserrrano&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&hide=stars,issues,contribs?count_private=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroserrrano)](https://github.com/alvaroserrrano/github-readme-stats?theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroserrrano&theme=merko)](https://github.com/alvaroserrrano/github-readme-stats)
 
 
 <a href="https://github.com/alvaroserrrano/SocialApeClient">
@@ -138,8 +138,6 @@ I'm Alvaro Serrano!
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvaroserrrano&repo=Bootcamper-API&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
 </a>
 </details>
-
-<br><br><br><br><br><br><br><br><br><br>
 
 ## 𝗠𝘆 Resume(click on the image👇)
 
