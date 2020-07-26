@@ -2,14 +2,15 @@
 <a href="https://www.linkedin.com/in/alvaro-serrano-rivas/" target="_blank">
   <img align="left" alt="github stats" src="https://img.shields.io/badge/-alvaroserrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-serrano-rivas/" />
 </a>
-
+<br>
 <p>I am a<em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <!-- Hi there 👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/{alvaroserrrano}/count.svg) -->
 
 ## My Skills
-
+<details>
+  <summary> <b> View my stats </b> <i>(click to expand!)</i> </summary>
 <table>
   <tbody>
     <tr valign="top">
@@ -112,6 +113,8 @@
 
 ![Linux](http://img.shields.io/badge/-Linux-A81D33?style=flat-square&logo=linux&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+</details>
+<br><br>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 <details>
