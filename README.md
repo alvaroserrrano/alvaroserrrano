@@ -8,9 +8,9 @@
 
 <!-- Hi there 👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/{alvaroserrrano}/count.svg) -->
 
-## My Skills
+# My Skills
 <details>
-  <summary> <b> View my stats </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Tech I use </b> <i>(click to expand!)</i> </summary>
 <table>
   <tbody>
     <tr valign="top">
@@ -114,8 +114,6 @@
 ![Linux](http://img.shields.io/badge/-Linux-A81D33?style=flat-square&logo=linux&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 </details>
-<br><br>
-
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 <details>
   <summary> <b> View my stats </b> <i>(click to expand!)</i> </summary>
@@ -159,7 +157,7 @@
 <br><br>
 </details>
 
-## 𝗠𝘆 Resume(click on the image👇)
+# 𝗠𝘆 Resume(click on the image👇)
 
 [<img src="https://www.hudson.hk/images/default-source/insights/resumes/resume-template.png?sfvrsn=8ed7c061_2" alt="medium" width="80" height="60">](https://drive.google.com/file/d/1IvtS4_npCa3xsL4WOEk-FG8rb6lOCnSB/view?usp=sharing)
 
