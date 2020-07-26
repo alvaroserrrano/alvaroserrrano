@@ -133,9 +133,9 @@ I'm Alvaro Serrano!
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvaroserrrano&repo=Bootcamper-API&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
 </a>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
-# 𝗠𝘆 Resume
+## 𝗠𝘆 Resume(click on the image👇)
 
 [<img src="https://www.hudson.hk/images/default-source/insights/resumes/resume-template.png?sfvrsn=8ed7c061_2" alt="medium" width="80" height="60">](https://drive.google.com/file/d/1IvtS4_npCa3xsL4WOEk-FG8rb6lOCnSB/view?usp=sharing)
 
