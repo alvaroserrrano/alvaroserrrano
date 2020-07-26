@@ -112,7 +112,6 @@ I'm Alvaro Serrano!
 ![Linux](http://img.shields.io/badge/-Linux-A81D33?style=flat-square&logo=linux&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 <details>
   <summary> <b> View my stats </b> <i>(click to expand!)</i> </summary>
@@ -137,8 +136,17 @@ I'm Alvaro Serrano!
 <a href="https://github.com/alvaroserrrano/Bootcamper-API">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvaroserrrano&repo=Bootcamper-API&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
 </a>
+<p align="center">
+  <img src="https://wakatime.com/share/@f407c6bf-141c-4a82-b852-d26594757fd8/9a6b7dd2-49cf-4049-bd05-2fde4ac33301.svg" height="400"/>
+</p>
+<p align="center">
+  <img src="https://wakatime.com/share/@f407c6bf-141c-4a82-b852-d26594757fd8/b4f60375-5a89-4913-9dd1-767174de227c.svg" height="400"/>
+</p>
+<p align="center">
+  <img src="https://wakatime.com/share/@f407c6bf-141c-4a82-b852-d26594757fd8/7f413b4c-d133-46fb-a76a-c971f64da819.svg" height="400"/>
+</p>
+
 </details>
-<br><br><br><br><br><br><br><br><br><br>
 
 ## 𝗠𝘆 Resume(click on the image👇)
 
