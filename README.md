@@ -1,10 +1,14 @@
+<a href="https://alvaroserranorivas.netlify.app/" target="_blank" height="60">
+  <img align="left" alt="myportfoliosite" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595665483/thumbnail_me3_5da36d8158.png" />
+</a>
 <h4>I'm Alvaro Serrano!</h4> 
 <a href="https://www.linkedin.com/in/alvaro-serrano-rivas/" target="_blank">
   <img align="left" alt="github stats" src="https://img.shields.io/badge/-alvaroserrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-serrano-rivas/" />
 </a>
 <br>
-<p>I am a<em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>I am a <em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<p>Click on the image to visit my site</p>
 
 <!-- Hi there 👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/{alvaroserrrano}/count.svg) -->
 
