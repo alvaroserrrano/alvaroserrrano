@@ -113,6 +113,10 @@
 
 ![Linux](http://img.shields.io/badge/-Linux-A81D33?style=flat-square&logo=linux&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+#### Certifications
+* AWS Certified Solutions Architect Associate
+* AWS Certified Developer Associate
 </details>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
