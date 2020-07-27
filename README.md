@@ -8,7 +8,7 @@
 <br>
 <p>I am a <em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p>Click on the image to visit my site</p>
+<p>Click on the image to visit my <a href="https://alvaroserranorivas.netlify.app/" target="_blank">website</a></p>
 
 <!-- Hi there 👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/{alvaroserrrano}/count.svg) -->
 
