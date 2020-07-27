@@ -115,9 +115,12 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 #### Certifications
-* AWS Certified Solutions Architect Associate
-* AWS Certified Developer Associate
+* AWS Certified Solutions Architect Associate 
+
 ![AWS Architect](https://res.cloudinary.com/aserranorivas/image/upload/v1595832191/thumbnail_aws-certified-solutions-architect-associate_e9dfa9ca49.png)
+
+* AWS Certified Developer Associate
+
 ![AWS Dev](https://res.cloudinary.com/aserranorivas/image/upload/v1595832191/thumbnail_aws-certified-developer-associate_9147728113.png)
 
 
