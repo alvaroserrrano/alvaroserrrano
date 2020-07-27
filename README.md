@@ -117,6 +117,10 @@
 #### Certifications
 * AWS Certified Solutions Architect Associate
 * AWS Certified Developer Associate
+![AWS Architect](https://res.cloudinary.com/aserranorivas/image/upload/v1595832191/thumbnail_aws-certified-solutions-architect-associate_e9dfa9ca49.png)
+![AWS Dev](https://res.cloudinary.com/aserranorivas/image/upload/v1595832191/thumbnail_aws-certified-developer-associate_9147728113.png)
+
+
 </details>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
