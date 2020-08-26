@@ -8,7 +8,7 @@
   <img align="left" alt="github stats" src="https://img.shields.io/badge/-alvaroserrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-serrano-rivas/" />
 </a>
 <br>
-<p>I am a <em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>I am a <em><a href="https://drive.google.com/file/d/1xXomyrPLYvbFPqpuTB41TR3j75TNu0Y1/view?usp=sharing" target="_blank">Software Engineer</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p>Click on the image to visit my <a href="https://alvaroserranorivas.netlify.app/" target="_blank">website</a></p>
 
@@ -175,10 +175,10 @@
 <br><br>
 </details>
 
-# 𝗠𝘆 Resume(click on the image👇)
+# 𝗠𝘆 Resume👇
 
 [<img src="https://www.hudson.hk/images/default-source/insights/resumes/resume-template.png?sfvrsn=8ed7c061_2" alt="medium" width="80" height="60">](https://drive.google.com/file/d/1IvtS4_npCa3xsL4WOEk-FG8rb6lOCnSB/view?usp=sharing)
-
+<a href="https://drive.google.com/file/d/1xXomyrPLYvbFPqpuTB41TR3j75TNu0Y1/view?usp=sharing" target="_blank">Resume</a>
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   <ul>
