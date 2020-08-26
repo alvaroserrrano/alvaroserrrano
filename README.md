@@ -1,9 +1,9 @@
 <a href="https://alvaroserranorivas.netlify.app/" target="_blank" height="60">
   <img align="left" alt="myportfoliosite" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595665483/thumbnail_me3_5da36d8158.png" />
 </a>
-<a href="https://alvaroserranorivas.netlify.app/blog/" target="_blank">
-<h4>I'm Alvaro Serrano!</h4>
-</a>
+
+<h4>I'm <a href="https://alvaroserranorivas.netlify.app/blog" target="_blank">Alvaro Serrano</a></h4>
+
 <a href="https://www.linkedin.com/in/alvaro-serrano-rivas/" target="_blank">
   <img align="left" alt="github stats" src="https://img.shields.io/badge/-alvaroserrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-serrano-rivas/" />
 </a>
