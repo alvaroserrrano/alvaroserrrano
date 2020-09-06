@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=alvaroserrrano)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alvaroserrrano&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://alvaroserranorivas.netlify.app/" target="_blank" height="60">
   <img align="left" alt="myportfoliosite" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595665483/thumbnail_me3_5da36d8158.png" />
 </a>
