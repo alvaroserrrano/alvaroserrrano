@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=alvaroserrrano)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=alvaroserrrano&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://alvaroserranorivas.netlify.app/" target="_blank" height="60">
