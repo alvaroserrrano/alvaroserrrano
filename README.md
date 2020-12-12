@@ -184,10 +184,16 @@
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   <ul>
-        <li>🌱 I’m currently learning DevOps best practices. I love being a jack of all trades 🂫,  coding ninja 🥋, or whatever you wanna call it.</li>
+        <li>🌱 Top 3 programming languages: Python, JavaScript, and Java</li>
         <li>👯 I’m looking to collaborate on any cool project that you can think of. Just come up with ideas and I will do my best to either actively help with the project, or start learning a new technology💻🔧 that broadens my areas of knowledge📚</li>
-        <li>🤔 I’m looking for help with Docker and Container Orchestrators (Kubernetes). Also with data structures and algorithms🙏 Please🥺</li>
-        <li>⚡ Fun fact: Cool editors🤔? I will stick to VIM thanks</li>
+        <li>🤔 Interested about Docker and Container Orchestrators (Kubernetes).</li>
+        <li>Frontend framework of preference: React</li>
+        <li>Backend framework of preference: either NodeJS or Django</li>
+        <li>Top 3 DB engines: mongoDB, mysql, dynamoDB</li>
+        <li>Git, Jenkins, JIRA, Postman, Heroku, Netlify</li>
+        <li>Docker and microservices. ECS container orchestration</li>
+        <li>DevOps skills: infrastructure configuration, version control, project packaging, deployment, security, Cloudwatch monitoring, Grafana, Loki</li>
+        <li>⚡ Cool editors🤔? I will stick to VIM thanks</li>
         <li>🎓I will graduate on 2022 with a Bachelor's Degree in Computer Science at Western Michigan University</li>
         <li>I was born in Madrid, Spain🇪🇸.</li>
         <li>Things I love: coffee☕️, sports🏋️‍♀️, and tech👨‍💻</li>
@@ -196,6 +202,8 @@
   </ul>  
 </details>
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 - 📫 How to reach me:
 
