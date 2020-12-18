@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=alvaroserrrano&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/alvaroserrrano?languages=1&gists=1&followup=1&isocalendar=1&isocalendar.duration=full-year)
+![GitHub metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 <a href="https://alvaroserranorivas.netlify.app/" target="_blank" height="60">
   <img align="left" alt="myportfoliosite" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595665483/thumbnail_me3_5da36d8158.png" />
