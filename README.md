@@ -2,6 +2,8 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/alvaroserrrano?languages=1&gists=1&followup=1&isocalendar=1&isocalendar.duration=full-year)
 
+https://open.spotify.com/embed/playlist/37i9dQZF1ELWfv1MKMTnGo
+
 <a href="https://alvaroserranorivas.netlify.app/" target="_blank" height="60">
   <img align="left" alt="myportfoliosite" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595665483/thumbnail_me3_5da36d8158.png" />
 </a>
