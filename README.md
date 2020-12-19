@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=alvaroserrrano&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=alvaroserrrano&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ![GitHub metrics](https://github.com/alvaroserrrano/alvaroserrrano/blob/master/github-metrics.svg)
 
@@ -185,7 +185,7 @@
 
 [<img src="https://www.hudson.hk/images/default-source/insights/resumes/resume-template.png?sfvrsn=8ed7c061_2" alt="medium" width="80" height="60">](https://drive.google.com/file/d/1IvtS4_npCa3xsL4WOEk-FG8rb6lOCnSB/view?usp=sharing)
 <a href="https://drive.google.com/file/d/1xXomyrPLYvbFPqpuTB41TR3j75TNu0Y1/view?usp=sharing" target="_blank">Resume</a>
-<details>
+<!--<details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   <ul>
         <li>🌱 Top 3 programming languages: Python, JavaScript, and Java</li>
@@ -204,7 +204,7 @@
         <li>I can speak: Spanish 🇪🇸, English🇺🇸🇬🇧🇦🇺🇨🇦, French 🇫🇷, Italian🇮🇹, and a little bit of German🇩🇪 </li>
         <li>-Above all, I love building innovative and intuitive products that help people learn and connect through the power of technology. If you share a similar passion, please contact me through LinkedIn or email me. I’m always happy to grab a coffee☕️ or coke🥤. I’ll buy!</li>
   </ul>  
-</details>
+</details>-->
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.❞</i>
