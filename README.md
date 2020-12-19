@@ -20,7 +20,6 @@
 
 <!-- Hi there 👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/{alvaroserrrano}/count.svg) -->
 
-# My Skills
 <details>
   <summary> <b> Tech I use </b> <i>(click to expand!)</i> </summary>
 <table>
@@ -138,7 +137,6 @@
 
 </details>
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 <details>
   <summary> <b> View my stats </b> <i>(click to expand!)</i> </summary>
 
