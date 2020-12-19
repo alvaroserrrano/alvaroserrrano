@@ -229,5 +229,32 @@
 
 - 📫 How to reach me:
 
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/alvaroserrrano)      [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/alvaroserrrano)     [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/alvaroserrrano)     [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/alvaro-serrano-rivas/)      [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="email logo" width="24">](alvaro.serrano@wmich.edu)     [<img src="https://github.com/Delta456/Delta456/blob/master/img/stack.svg" alt="stackOverflow" width="24">](https://stackoverflow.com/users/10564441/a-serrano-rivas)      [<img src="https://aleen42.github.io/badges/src/medium.svg" alt="medium" width="24">](https://medium.com/@alvaro.serrano)     [<img src="https://github.com/Delta456/Delta456/blob/master/img/reddit.jpg" alt="reddit" width="24">](https://www.reddit.com/user/4Iv4r0S3rr4N0)     [<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" alt="telegram" width="24">](https://t.me/A_serr)     [<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" alt="Whatsapp" width="24">](https://api.whatsapp.com/send?phone=+34674459450)
+<p align="center">
+  <a href= "https://github.com/alvaroserrrano/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/alvaro-serrano-rivas/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://alvaroserranorivas.netlify.app/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
+  </a>
+  <a href="https://github.com/alvaroserrrano/CV/blob/main/AlvaroSerranoRivas2.pdf">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
+  </a>
+  <a href="mailto:alvaro.serrano@wmich.edu">
+    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
+  </a>
+  <a href="https://medium.com/@alvaro.serrano">
+    <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
+  </a>
+  <a href="https://stackoverflow.com/users/10564441/a-serrano-rivas">
+    <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
+  </a>
+
+  
+</p>
+
+---
+
 
