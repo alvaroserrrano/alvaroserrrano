@@ -22,6 +22,10 @@
 
 <!-- ARTICLES:END -->
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
