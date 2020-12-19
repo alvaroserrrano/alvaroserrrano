@@ -18,6 +18,12 @@
 </em></p>
 <p>Click on the image to visit my <a href="https://alvaroserranorivas.netlify.app/" target="_blank">website</a></p>
 
+<!-- ARTICLES:START -->
+<!-- ARTICLES:END -->
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!-- Hi there 👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/{alvaroserrrano}/count.svg) -->
 
 <details>
