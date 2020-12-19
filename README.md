@@ -18,6 +18,7 @@
 </em></p>
 <p>Click on the image to visit my <a href="https://alvaroserranorivas.netlify.app/" target="_blank">website</a></p>
 
+# Latest articles
 <!-- ARTICLES:START -->
 
 <!-- ARTICLES:END -->
@@ -26,6 +27,12 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+
+<!-- STACKOVERFLOW:END -->
+
+# My activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
