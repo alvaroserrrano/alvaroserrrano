@@ -1,5 +1,7 @@
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=alvaroserrrano&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)-->
 
+[![Banner](./linkedin_banner.jpeg)](https://www.linkedin.com/in/alvaro-serrano-rivas/)
+
 ![GitHub metrics](https://github.com/alvaroserrrano/alvaroserrrano/blob/master/github-metrics.svg)
 
 <!--![GitHub metrics](https://metrics.lecoq.io/alvaroserrrano?languages=1&isocalendar=1&isocalendar.duration=full-year)-->
