@@ -26,11 +26,11 @@
 <!-- ARTICLES:END -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Apps In 2020](https://medium.com/@alvaro.serrano/deploying-apps-in-2020-87157c50ec95?source=rss-ee1bf7a912ac------2)
-- [Should you obsess about being anonymous online?](https://medium.com/@alvaro.serrano/should-you-obsess-about-being-anonymous-online-b635e7c90e5?source=rss-ee1bf7a912ac------2)
-- [Behind the scenes of modern browsers](https://medium.com/@alvaro.serrano/behind-the-scenes-of-modern-browsers-fd54357fee7d?source=rss-ee1bf7a912ac------2)
-- [Serverless and Multitenancy](https://medium.com/@alvaro.serrano/serverless-and-multitenancy-cc32f55bbaa4?source=rss-ee1bf7a912ac------2)
-- [Networking security on IPv4 and IPv6](https://medium.com/@alvaro.serrano/networking-security-on-ipv4-and-ipv6-98d1edc25264?source=rss-ee1bf7a912ac------2)
+- [Microservices Interactions](https://dev.to/alvaroserrrano/microservices-interactions-38g7)
+- [In-Demand Skills vs Top IT certs](https://dev.to/alvaroserrrano/in-demand-skills-vs-top-it-certs-57eo)
+- [Network Automation Challenges and the Cloud](https://dev.to/alvaroserrrano/network-automation-challenges-and-the-cloud-1bn5)
+- [Microservices are not the latest fad... but maybe we do not need them](https://dev.to/alvaroserrrano/microservices-are-not-the-latest-fad-but-maybe-we-do-not-need-them-43c2)
+- [AWS Certifications](https://dev.to/alvaroserrrano/aws-certifications-2gcj)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
