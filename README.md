@@ -252,7 +252,7 @@
     <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
     <a href="https://twitter.com/aserranorivas">
-    <img src="https://img.icons8.com/android/50/000000/twitter.png"/>
+    <img src="https://img.icons8.com/material/48/000000/twitter--v1.png"/>
   </a>
   <a href="https://medium.com/@alvaro.serrano">
     <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
