@@ -35,6 +35,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Prevent react query from refetching data upon user action when data is not updated](https://stackoverflow.com/questions/67424615/prevent-react-query-from-refetching-data-upon-user-action-when-data-is-not-updat)
 - [EFS unavailable port range](https://stackoverflow.com/questions/64350685/efs-unavailable-port-range)
 <!-- STACKOVERFLOW:END -->
 
