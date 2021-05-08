@@ -35,6 +35,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [React Context and memo](https://stackoverflow.com/questions/67445430/react-context-and-memo)
 - [ReactQuery slow to fetch data](https://stackoverflow.com/questions/67436130/reactquery-slow-to-fetch-data)
 - [How can I trigger a useQuery function to refetch data when some element in the component state changes?](https://stackoverflow.com/questions/67431936/how-can-i-trigger-a-usequery-function-to-refetch-data-when-some-element-in-the-c)
 - [Prevent react query from refetching data upon user action when data is not updated](https://stackoverflow.com/questions/67424615/prevent-react-query-from-refetching-data-upon-user-action-when-data-is-not-updat)
