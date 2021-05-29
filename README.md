@@ -35,7 +35,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by A.Serrano.Rivas for React-Chart-JS2 labels inside Doughnut chart](https://stackoverflow.com/questions/65000463/react-chart-js2-labels-inside-doughnut-chart/67635746#67635746)
+- [Answer by FearsomeLamb789 for React-Chart-JS2 labels inside Doughnut chart](https://stackoverflow.com/questions/65000463/react-chart-js2-labels-inside-doughnut-chart/67635746#67635746)
 - [Update one child component when another child component changes](https://stackoverflow.com/questions/67465910/update-one-child-component-when-another-child-component-changes)
 - [React Context and memo](https://stackoverflow.com/questions/67445430/react-context-and-memo)
 - [ReactQuery slow to fetch data](https://stackoverflow.com/questions/67436130/reactquery-slow-to-fetch-data)
