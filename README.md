@@ -208,10 +208,6 @@
 <br><br>
 </details>
 
-# 𝗠𝘆 Resume👇
-
-[<img src="https://www.hudson.hk/images/default-source/insights/resumes/resume-template.png?sfvrsn=8ed7c061_2" alt="medium" width="80" height="60">](https://drive.google.com/file/d/1IvtS4_npCa3xsL4WOEk-FG8rb6lOCnSB/view?usp=sharing)
-<a href="https://drive.google.com/file/d/1xXomyrPLYvbFPqpuTB41TR3j75TNu0Y1/view?usp=sharing" target="_blank">Resume</a>
 <!--<details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   <ul>
@@ -246,22 +242,12 @@
   <a href= "https://www.linkedin.com/in/alvaro-serrano-rivas/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-  <a href= "https://alvaroserranorivas.netlify.app/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a>
-  <a href="https://github.com/alvaroserrrano/CV/blob/main/AlvaroSerranoRivas2.pdf">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
-  </a>
-  <a href="mailto:alvaro.serrano@wmich.edu">
-    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   <a href="https://medium.com/@alvaro.serrano">
     <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
   </a>
-  <a href="https://stackoverflow.com/users/10564441/a-serrano-rivas">
+  <a href="https://stackoverflow.com/users/10564441/a-s-r-789">
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
-  </a>
-
-  
+  </a>  
 </p>
 
 ---
