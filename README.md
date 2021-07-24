@@ -166,48 +166,6 @@
 
 </details>
 
-<details>
-  <summary> <b> View my stats </b> <i>(click to expand!)</i> </summary>
-
-<a href="https://github-readme-stats.vercel.app/api?username=alvaroserrrano&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&hide=stars,issues,contribs?count_private=true&theme=onedark">
-  <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=alvaroserrrano&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&hide=stars,issues,contribs?count_private=true&theme=onedark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroserrrano&theme=merko">
-  <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroserrrano&theme=merko" />
-</a>
-<br><br>
-<a href="https://github.com/alvaroserrrano/SocialApeClient">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvaroserrrano&repo=SocialApeClient&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-</a>
-
-<a href="https://github.com/alvaroserrrano/Tours&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvaroserrrano&repo=Tours&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-</a>
-
-<a href="https://github.com/alvaroserrrano/socialMedia">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvaroserrrano&repo=socialMedia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-</a>
-
-<a href="https://github.com/alvaroserrrano/Bootcamper-API">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvaroserrrano&repo=Bootcamper-API&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-</a>
-<br><br>
-
-<br><br><br><br><br><br><br><br><br>
-<p align="center">
- <img src="https://wakatime.com/share/@f407c6bf-141c-4a82-b852-d26594757fd8/9a6b7dd2-49cf-4049-bd05-2fde4ac33301.svg" height="400"/>
-</p>
-<br><br>
-<p align="center">
-  <img src="https://wakatime.com/share/@f407c6bf-141c-4a82-b852-d26594757fd8/b4f60375-5a89-4913-9dd1-767174de227c.svg" height="400"/>
-</p>
-<br><br>
-<p align="center">
-  <img src="https://wakatime.com/share/@f407c6bf-141c-4a82-b852-d26594757fd8/7f413b4c-d133-46fb-a76a-c971f64da819.svg" height="400"/>
-</p>
-<br><br>
-</details>
-
 <!--<details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   <ul>
