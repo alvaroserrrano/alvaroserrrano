@@ -8,7 +8,6 @@
 <i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-<h4 align="center"> Certifications </h4>
 <table align="center">
   <tbody>
     <tr valign="top">
@@ -27,10 +26,7 @@
     </tr>   
   </tbody>
 </table>
-
-<details>
-  <summary> <b> Tech I use </b></summary>
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -124,7 +120,6 @@
     </tr>
   </tbody>
 </table>
-</details>
 
 #### Latest articles
 <!-- BLOG-POST-LIST:START -->
