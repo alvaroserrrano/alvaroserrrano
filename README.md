@@ -132,11 +132,11 @@
 
 #### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [response.body() returned from splash:html() does not look like HTML](https://stackoverflow.com/questions/68563152/response-body-returned-from-splashhtml-does-not-look-like-html)
 - [No module named _sqlite3 on python 3.9.2 virtual environment created with pyenv and poetry](https://stackoverflow.com/questions/68296821/no-module-named-sqlite3-on-python-3-9-2-virtual-environment-created-with-pyenv)
 - [Answer by a-s-r-789 for how to access 'api' instance in namespace class](https://stackoverflow.com/questions/67048181/how-to-access-api-instance-in-namespace-class/68258187#68258187)
 - [Answer by a-s-r-789 for React-Chart-JS2 labels inside Doughnut chart](https://stackoverflow.com/questions/65000463/react-chart-js2-labels-inside-doughnut-chart/67635746#67635746)
 - [Update one child component when another child component changes](https://stackoverflow.com/questions/67465910/update-one-child-component-when-another-child-component-changes)
-- [React Context and memo](https://stackoverflow.com/questions/67445430/react-context-and-memo)
 <!-- STACKOVERFLOW:END -->
 
 
