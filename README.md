@@ -139,6 +139,15 @@
 - [Update one child component when another child component changes](https://stackoverflow.com/questions/67465910/update-one-child-component-when-another-child-component-changes)
 <!-- STACKOVERFLOW:END -->
 
+#### Interests
+- Cybersecurity
+- Blockchain Technology
+- Stock markets
+
+<i>Privacy is about people knowing who you are but not knowing what you are doing</i>
+
+<i>Anonymity is about people knowing what you are doing but not knowing who you are</i>
+
 
 <p align="center">
   <a href= "https://github.com/alvaroserrrano/">
