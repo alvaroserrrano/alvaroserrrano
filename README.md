@@ -141,8 +141,8 @@
 
 #### Interests
 - Cybersecurity
-- Blockchain Technology
-- Stock markets
+- Blockchain Technology, DEFI
+- Quant algorithmic trading
 
 <i>Privacy is about people knowing who you are but not knowing what you are doing</i>
 
