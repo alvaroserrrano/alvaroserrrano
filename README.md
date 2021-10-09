@@ -1,5 +1,7 @@
 [![Banner](./linkedin_banner.jpeg)](https://www.linkedin.com/in/alvaro-serrano-rivas/)</br>
 
+<a href="https://app.daily.dev/aserranorivas"><img src="https://api.daily.dev/devcards/987f4fb1db2443298c3bfdc27a081b66.png?r=sn4" width="400" alt="Alvaro Serrano's Dev Card"/></a>
+
 <a href="https://www.linkedin.com/in/alvaro-serrano-rivas/" target="_blank">
   <img align="left" alt="github stats" src="https://img.shields.io/badge/-alvaroserrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-serrano-rivas/" />
 </a>
