@@ -309,14 +309,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 6 Nov 2021, 19:12:15
+Last generated: 6 Nov 2021, 20:15:27
 </div>
 <div class="stdin"><span class="ps1-path">alvaroserrrano@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Alvaro Serrano</b> registered=3y, uid=8471, gid=0
-  contributed to 25 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span></b>
+  contributed to 25 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span></b>
   followed by <b>19</b> users
 </div>
 <div class="stdin"><span class="ps1-path">alvaroserrrano@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 3006</b> commits
+  <b> 3007</b> commits
   <b>    1</b> pull request reviewed
   <b>    9</b> pull requests opened
   <b>    8</b> issues opened
@@ -346,16 +346,16 @@ dr-x         LICENSE
 -r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
 </div>
-<div class="stdin"><span class="ps1-path">alvaroserrrano@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>CSS         </b> [##########          ] 49.42%
-<b>JAVASCRIPT  </b> [########            ] 37.83%
-<b>HTML        </b> [##                  ] 6.57 %
-<b>PYTHON      </b> [#                   ] 2.47 %
-<b>JAVA        </b> [#                   ] 1.40 %
-<b>PHP         </b> [#                   ] 1.28 %
-<b>C#          </b> [#                   ] 0.66 %
-<b>C           </b> [#                   ] 0.38 %
+<div class="stdin"><span class="ps1-path">alvaroserrrano@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>CSS         </b> [##########          ] 48.51%
+<b>JAVASCRIPT  </b> [########            ] 37.13%
+<b>HTML        </b> [##                  ] 6.44 %
+<b>PYTHON      </b> [#                   ] 2.42 %
+<b>JUPYTER NOTEBOOK</b> [#                   ] 2.23 %
+<b>JAVA        </b> [#                   ] 1.37 %
+<b>PHP         </b> [#                   ] 1.25 %
+<b>C#          </b> [#                   ] 0.65 %
 </div>
-<footer>Connection reset by 61.167.36.22</footer></pre>
+<footer>Connection reset by 8.201.183.119</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
