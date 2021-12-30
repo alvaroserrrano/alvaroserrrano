@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://twitter.com/FearsomeLamb789" target="_blank">
-  <img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?style=social&link=https://twitter.com/FearsomeLamb789" />
+  <img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?label=FearsomeLamb789&style=social&url=FearsomeLamb789" />
 </a>
 
 
