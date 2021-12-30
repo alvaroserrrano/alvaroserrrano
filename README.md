@@ -1,8 +1,13 @@
 
 
 <a href="https://www.linkedin.com/in/alvaro-serrano-rivas/" target="_blank">
-  <img align="left" alt="github stats" src="https://img.shields.io/badge/-alvaroserrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-serrano-rivas/" />
+  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/-alvaroserrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-serrano-rivas/" />
 </a>
+
+<a href="https://twitter.com/FearsomeLamb789" target="_blank">
+  <img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?style=social&link=https://twitter.com/FearsomeLamb789" />
+</a>
+
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.❞</i>
