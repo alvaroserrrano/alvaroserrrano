@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/alvaro-serrano-rivas/" target="_blank">
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/-alvaroserrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-serrano-rivas/" />
 </a>
-
+<br>
 <a href="https://twitter.com/FearsomeLamb789" target="_blank">
   <img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?label=FearsomeLamb789&style=social&url=FearsomeLamb789" />
 </a>
-
+<br><br>
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   ❞</i>
@@ -126,15 +126,6 @@
   </tbody>
 </table>
 
-#### Latest articles
-<!-- BLOG-POST-LIST:START -->
-- [Deploying Apps In 2020](https://medium.com/@alvaro.serrano/deploying-apps-in-2020-87157c50ec95?source=rss-ee1bf7a912ac------2)
-- [Should you obsess about being anonymous online?](https://medium.com/@alvaro.serrano/should-you-obsess-about-being-anonymous-online-b635e7c90e5?source=rss-ee1bf7a912ac------2)
-- [Behind the scenes of modern browsers](https://medium.com/@alvaro.serrano/behind-the-scenes-of-modern-browsers-fd54357fee7d?source=rss-ee1bf7a912ac------2)
-- [Serverless and Multitenancy](https://medium.com/@alvaro.serrano/serverless-and-multitenancy-cc32f55bbaa4?source=rss-ee1bf7a912ac------2)
-- [Networking security on IPv4 and IPv6](https://medium.com/@alvaro.serrano/networking-security-on-ipv4-and-ipv6-98d1edc25264?source=rss-ee1bf7a912ac------2)
-<!-- BLOG-POST-LIST:END -->
-
 #### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Pandas Sum x number of rows [duplicate]](https://stackoverflow.com/questions/70779316/pandas-sum-x-number-of-rows)
@@ -148,11 +139,6 @@
 - Cybersecurity
 - Blockchain Technology, DEFI
 - Quant algorithmic trading
-
-<i>Privacy is about people knowing who you are but not knowing what you are doing</i>
-
-<i>Anonymity is about people knowing what you are doing but not knowing who you are</i>
-
 
 <a href="https://app.daily.dev/aserranorivas"><img src="https://api.daily.dev/devcards/987f4fb1db2443298c3bfdc27a081b66.png?r=sn4" width="400" alt="Alvaro Serrano's Dev Card"/></a><p align="center">
 
