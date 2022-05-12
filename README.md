@@ -10,7 +10,7 @@
 <br><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
+<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0" alt="Recent Article 0"> 
