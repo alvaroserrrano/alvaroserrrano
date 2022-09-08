@@ -10,7 +10,7 @@
 <br><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
+<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0" alt="Recent Article 0"> 
