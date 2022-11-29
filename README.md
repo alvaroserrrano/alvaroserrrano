@@ -140,11 +140,11 @@
 
 #### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by a-s-r-789 for how to write a code in solidity that round up instead of down in divisions?](https://stackoverflow.com/questions/73995375/how-to-write-a-code-in-solidity-that-round-up-instead-of-down-in-divisions/74619022#74619022)
 - [Set Github action env variable based on target branch](https://stackoverflow.com/questions/73106587/set-github-action-env-variable-based-on-target-branch)
 - [Mock super&lpar;&rpar;.__init__](https://stackoverflow.com/questions/72392345/mock-super-init)
 - [React Context and Typescript](https://stackoverflow.com/questions/69337897/react-context-and-typescript)
 - [response.body&lpar;&rpar; returned from splash:html&lpar;&rpar; does not look like HTML](https://stackoverflow.com/questions/68563152/response-body-returned-from-splashhtml-does-not-look-like-html)
-- [No module named _sqlite3 on python 3.9.2 virtual environment created with pyenv and poetry](https://stackoverflow.com/questions/68296821/no-module-named-sqlite3-on-python-3-9-2-virtual-environment-created-with-pyenv)
 <!-- STACKOVERFLOW:END -->
 
 #### Interests
