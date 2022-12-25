@@ -10,7 +10,7 @@
 <br><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
+<i>❝“The great thing about predictions is that you can be wrong.”— Chris Wiggins❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0" alt="Recent Article 0"> 
