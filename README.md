@@ -149,18 +149,15 @@
 
 #### Interests
 - Cybersecurity
-- Blockchain Technology, DEFI
+- Blockchain Technology, DeFi
 - Quant algorithmic trading
   
 🧙‍ I am busy ...
 
-- Researching the most-exploited attack vectors of the Web
 - Learning about cybersecurity for the Ethereum Ecosystem
 - Reviewing complex Smart Contract Systems and Off-Chain components
 - Researching new attack vectors
 - Building useless tools that I only care about
-
-Others say I am excessively productive
 
 <a href="https://app.daily.dev/aserranorivas"><img src="https://api.daily.dev/devcards/987f4fb1db2443298c3bfdc27a081b66.png?r=sn4" width="400" alt="Alvaro Serrano's Dev Card"/></a><p align="center">
 
