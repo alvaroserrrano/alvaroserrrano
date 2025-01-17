@@ -10,7 +10,7 @@
 <br><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
+<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0" alt="Recent Article 0"> 
