@@ -10,7 +10,7 @@
 <br><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
+<i>❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alvaro.serrano/0" alt="Recent Article 0"> 
